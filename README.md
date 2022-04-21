@@ -1,6 +1,6 @@
 # suitcase_app
 
-A new Flutter project.
+A new Flutter project. This is about a suitcase app. You can track in real time your suitcase and you can also see other details of it.
 
 ## Getting Started
 
